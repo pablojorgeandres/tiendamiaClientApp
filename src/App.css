@@ -1,0 +1,45 @@
+nav {
+  padding: 2%;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+nav ul li {
+  list-style: none;
+  transition: transform .2s;
+}
+
+nav ul li:hover {
+  transform: scale(1.05);
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main div {
+  background-color: #eee;
+  border-radius: 8px;
+  box-shadow: 0 0 4px black;
+  min-width: 50%;
+  padding: 1%;
+  margin: 10px;
+}
+
+input, button {
+  margin: 10px;
+  border-radius: 4px;
+  border: 1px solid black;
+  padding: 8px;
+}
