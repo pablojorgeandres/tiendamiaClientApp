@@ -9,3 +9,5 @@ Al hacer click en cualquier row de la grilla, la interfaz de usuario redireccion
 Por otro lado, sobre la grilla se encuentra el filtro para las órdenes en estado 'Travelling' que se mostrarán en la misma grilla.
 
 La otra vista es el reporte de órdenes en estado 'Approve' que tienen una fecha de delivery no mayor a dos días desde hoy.
+
+url: https://64e43a0588814f1e69be5646--superlative-parfait-0b3dfa.netlify.app/
